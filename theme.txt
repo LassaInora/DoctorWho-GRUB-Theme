@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 8%
   width = 100%
   align = "center"
-  text = "GNU GRAND UNIFIED BOOTLOADER VER 2.2"
+  text = "Time And Relative Dimension In Space"
   color = "#B36400"
   font = "Fixedsys Regular 32"
 }
@@ -24,10 +24,10 @@ terminal-border: "0"
 # Line 2
 + label {
   left = 0
-  top = 8%+30 
+  top = 8%+30
   width = 100%
   align = "center"
-  text = "-Display 1-"
+  text = "- Type 40 Mark III -"
   color = "#B36400"
   font = "Fixedsys Regular 32"
 }
@@ -38,7 +38,7 @@ terminal-border: "0"
   top = 8%+60
   width = 100%
   align = "center"
-  text = "PLEASE SELECT OPERATING SYSTEM TO BOOT:"
+  text = "PLEASE SELECT OPERATING SYSTEM TO BOOT"
   color = "#B36400"
   font = "Fixedsys Regular 32"
 }
@@ -71,7 +71,7 @@ terminal-border: "0"
   font = "Fixedsys Regular 32"
 }
 
-# Navigation keys hint 
+# Navigation keys hint
 + label {
   left = 0
   top = 88%-30
